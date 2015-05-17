@@ -5,3 +5,5 @@ dist
 .sass-cache
 index.html
 .idea
+css/theme.css
+css/theme.css.map
