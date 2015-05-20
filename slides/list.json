@@ -1,1 +1,16 @@
-["index.md"]
+[
+    "index.md",
+    "welcome.md",
+    "way-back-when.md",
+    "decisions-not-options.md",
+    "base-functionality.md",
+    "streamlined-editorial-workflows.md",
+    "internationalization.md",
+    "security.md",
+    "extensions.md",
+    "flexibility.md",
+    "scalability.md",
+    "apiability.md",
+    "developer-bonuses.md",
+    "questions.md"
+]
