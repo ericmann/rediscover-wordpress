@@ -1,0 +1,3 @@
+##  Internationalization ...
+
+<img src="img/i18n.png" />
