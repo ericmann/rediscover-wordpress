@@ -1,3 +1,3 @@
 ##  Extensions!
 
-This is a new Markdown slide
+<img class="fragment" src="img/plugins.png" />
