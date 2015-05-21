@@ -1,3 +1,3 @@
 ##  Flexibility ...
 
-This is a new Markdown slide
+<img src="img/lifeandtimes.png" />

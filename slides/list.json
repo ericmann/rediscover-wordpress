@@ -1,16 +1,32 @@
 [
     "index.md",
-    "welcome.md",
+    [
+        "intro/welcome.md",
+        "intro/legacy.md"
+    ],
     "way-back-when.md",
     "decisions-not-options.md",
     "base-functionality.md",
-    "streamlined-editorial-workflows.md",
+    [
+        "workflows/streamlined-editorial-workflows.md",
+        "workflows/embeds.md",
+        "workflows/media.md"
+    ],
     "internationalization.md",
     "security.md",
     "extensions.md",
     "flexibility.md",
+    "flexibility2.md",
     "scalability.md",
+    "scalability2.md",
     "apiability.md",
-    "developer-bonuses.md",
+    "apiability2.md",
+    "apiability3.md",
+    [
+        "developers/bonuses.md",
+        "developers/customizer.md",
+        "developers/json.md",
+        "developers/cli.md"
+    ],
     "questions.md"
 ]

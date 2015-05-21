@@ -1,3 +1,7 @@
 ##  Decisions, Not Options
 
-This is a new Markdown slide
+<ul>
+	<li class="fragment">Code for the Majority</li>
+	<li class="fragment">Respect Backwards-Compatibility</li>
+	<li class="fragment">"Do small things continually on all fronts"</li>		
+</ul>

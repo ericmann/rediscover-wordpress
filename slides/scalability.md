@@ -1,3 +1,3 @@
 ##  Scalability ...
 
-This is a new Markdown slide
+<img src="img/wired.png" />

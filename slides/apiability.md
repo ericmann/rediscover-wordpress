@@ -1,3 +1,3 @@
 ##  APIability ...
 
-This is a new Markdown slide
+<img src="img/quartz.png" />

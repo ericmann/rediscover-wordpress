@@ -1,3 +1,3 @@
 ##  Internationalization ...
 
-This is a new Markdown slide
+<img src="img/i18n.png" />
