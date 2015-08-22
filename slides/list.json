@@ -13,7 +13,11 @@
         "workflows/media.md"
     ],
     "internationalization.md",
-    "security.md",
+    [
+        "security.md",
+        "security2.md",
+        "security3.md"
+    ],
     "extensions.md",
     "flexibility.md",
     "flexibility2.md",
